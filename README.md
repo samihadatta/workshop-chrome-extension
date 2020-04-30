@@ -150,12 +150,9 @@ Now, when you reload your extension (load unpacked again) you should be able to 
 ## Reflection Questions:
 
 1. What functionality would you implement in an extension that could help in the day-to-day? For that functionality, would you use a page action or browser action for your icon in the browser? 
-<br>
-<em>I think browser actions make sense because to take up that much real estate on a browser, having an extension that does stuff for many pages makes sense.
-A weather extension could be interesting/useful? Or a schedule one where it loads your schedule in quickly? I feel like most of these will have already been done.</em>
+<em>I think browser actions make sense because to take up that much real estate on a browser, having an extension that does stuff for many pages makes sense. A weather extension could be interesting/useful? Or a schedule one where it loads your schedule in quickly? I feel like most of these will have already been done. I have a lot of ideas of good pranks, though! I've heard about the Nicholas Cage one and I think there's a lot of opportunity in that department.</em>
 
 2. Think about your favorite extension or a popular extension. Try to explain the features of the extension and how it was implemented. 
-<br>
 <em>One of my favorite extensions is Eye Dropper, which allows a person to click anywhere on the screen and will tell you the color. I think it includes a color picker and is definitely a browser extension as opposed to a page one.</em>
 
 
